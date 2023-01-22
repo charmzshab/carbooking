@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34b5ba14-44f6-4936-be31-14d7a4b21b09" name="Changes" comment="" />
+    <list default="true" id="34b5ba14-44f6-4936-be31-14d7a4b21b09" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
